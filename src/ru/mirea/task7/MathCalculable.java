@@ -1,4 +1,4 @@
-package ru.mirea.task7.hfh;
+package ru.mirea.task7;
 public interface MathCalculable {
     double pi = 3.14;
     double pow(double number, int not);
