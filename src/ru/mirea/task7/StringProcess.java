@@ -1,4 +1,4 @@
-package ru.mirea.task7.hfg;
+package ru.mirea.task7;
 
 public interface StringProcess {
     int length(String str);
