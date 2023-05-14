@@ -1,6 +1,6 @@
-package ru.mirea.task7.hfh;
+package ru.mirea.task7;
 
-import ru.mirea.task7.hfh.MathCalculable;
+import ru.mirea.task7.MathCalculable;
 
 public class MathFunc implements MathCalculable {
     @Override
