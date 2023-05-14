@@ -1,4 +1,4 @@
-package ru.mirea.task7.hfg;
+package ru.mirea.task7;
 import java.util.Scanner;
 
 public class TestString {
