@@ -1,4 +1,4 @@
-package ru.mirea.task7.hfg;
+package ru.mirea.task7;
 
 public class StringFunc implements StringProcess{
     @Override
