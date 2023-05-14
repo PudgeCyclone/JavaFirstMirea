@@ -1,6 +1,6 @@
-package ru.mirea.task7.hfh;
+package ru.mirea.task7;
 
-import ru.mirea.task7.hfh.MathFunc;
+import ru.mirea.task7.MathFunc;
 
 import java.util.Scanner;
 
