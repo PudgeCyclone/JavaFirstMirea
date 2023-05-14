@@ -1,4 +1,4 @@
-package ru.mirea.task7.hfdd;
+package ru.mirea.task7;
 
 public class MovablePoint implements Movable {
     protected int x;
